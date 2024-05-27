@@ -1,64 +1,35 @@
-[![Build & Tests](https://github.com/pencil2d/pencil/actions/workflows/ci.yml/badge.svg)](https://github.com/pencil2d/pencil/actions/workflows/ci.yml)
-
-# Pencil2D Animation
-
-**Pencil2D** is a free and open source animation/drawing software for Windows, macOS, Linux, and FreeBSD. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
-
-Pencil2D is a community-driven project developed entirely by volunteers and we are always looking for more helping hands! There are many different ways to contribute, so anyone can help regardless of their background. For more information, please see the [Contributing](#contributing) section below.
-
-Don’t forget to check out our official website: <https://www.pencil2d.org/>
-
-### User Showcase
-
-[![2022 User Showcase](http://img.youtube.com/vi/ma52j9B1kEM/hqdefault.jpg)](https://www.youtube.com/watch?v=ma52j9B1kEM)
-
-_User Showcase Reel 2022_
-
-## Download
-
-### Pencil2D 0.6.6 (17 Feb 2021)
-
-You can download Pencil2D from the [Official Website][p2d-download] or [Github releases][gh-release].
-
-[p2d-download]: https://www.pencil2d.org/download/
-[gh-release]: https://github.com/pencil2d/pencil/releases
-
-### Nightly Builds
-
-Nightly builds are the bleeding edge versions of Pencil2D, which contains the most recent fixes and features. We currently do not offer legacy mac or 32-bit linux nightly builds. If you have one of these systems, you will have to wait for official releases or build the program from source.
-
-[Download Nightly Buildls](https://www.pencil2d.org/download/nightly/)
-
-## Using Pencil2D
-
-Note that the following guides and documentation are outdated.
-
-Pencil2D comes with a Quick Reference that you can use to familiarize yourself with the tools and functions at your disposal. After opening Pencil2D, you can access it through the main menu: Help > Quick Reference Guide.
-
-We encourage you to visit our [User Manual][user-man] for a quick guide for novice users, then play around with the program – it's fun!
-
-[user-man]: https://www.pencil2d.org/doc/user-manual.html
-
-After you feel a little more comfortable with the basics, check out these [tutorials][pencil-tutorials] provided by Pencil developers and users. While some of these resources might reference previous versions of Pencil2D, the underlying concepts are still the same.
-
-[pencil-tutorials]: https://www.pencil2d.org/doc/tutorials.html
-
-If you encounter difficulty or have additional questions, we have a large community of users who are glad to help out. View the [FAQ][p2d-faq] on our website or visit our [discussion forums][p2d-discussion] to post a new question.
-
-[p2d-faq]: https://www.pencil2d.org/doc/faq.html
-[p2d-discussion]: https://discuss.pencil2d.org/c/support/5
-
-## Contributing
-
-Interested in contributing to Pencil? There are many ways to help. Take a look at our issues and see what you can help out with, check out the developer guide, or help out with making Pencil2D available to more people by contributing to translation.
-
-* [Issue Tracker](https://github.com/pencil2d/pencil/issues) - Report bugs or request features.
-* [Developer Guide](https://dev.pencil2d.org/) - Learn how to compile Pencil2D yourself.
-* [Transifex](https://www.transifex.com/pencil2d/) - You can help translate Pencil2D, too.
-* [Documentation contributions](https://www.pencil2d.org/doc/CONTRIBUTING) - Guidelines for contributing to documentation.
-
-## Source Code
-
-* GitHub: <https://github.com/pencil2d/pencil> (Primary)
-* Bitbucket: <https://bitbucket.org/chchwy/pencil2d> (Mirror)
-* GitLab: <https://gitlab.com/chchwy/pencil2d> (Mirror 2)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://github.com/pencil2d/pencil/actions/workflows/ci.yml"><img src="https://github.com/pencil2d/pencil/actions/workflows/ci.yml/badge.svg" alt="构建和测试" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pencil2D 动画</font></font></h1><a id="user-content-pencil2d-animation" class="anchor" aria-label="永久链接：Pencil2D 动画" href="#pencil2d-animation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pencil2D</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一款适用于 Windows、macOS、Linux 和 FreeBSD 的免费开源动画/绘图软件。它可让您使用位图和矢量图形创建传统手绘动画（卡通）。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pencil2D 是一个完全由志愿者开发的社区驱动项目，我们一直在寻找更多的帮助！贡献的方式有很多种，因此任何人都可以提供帮助，无论其背景如何。有关更多信息，请参阅下面的</font></font><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">别忘了查看我们的官方网站：</font></font><a href="https://www.pencil2d.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.pencil2d.org/</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户展示</font></font></h3><a id="user-content-user-showcase" class="anchor" aria-label="永久链接：用户展示" href="#user-showcase"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://www.youtube.com/watch?v=ma52j9B1kEM" rel="nofollow"><img src="https://camo.githubusercontent.com/fc27ff35f38359892572badd466de4dbce303ca6a24611073d5d431808d88cf4/687474703a2f2f696d672e796f75747562652e636f6d2f76692f6d6135326a3942316b454d2f687164656661756c742e6a7067" alt="2022 用户展示" data-canonical-src="http://img.youtube.com/vi/ma52j9B1kEM/hqdefault.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><em><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2022 年用户展示卷轴</font></font></em></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font></h2><a id="user-content-download" class="anchor" aria-label="固定链接：下载" href="#download"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pencil2D 0.6.6（2021 年 2 月 17 日）</font></font></h3><a id="user-content-pencil2d-066-17-feb-2021" class="anchor" aria-label="永久链接：Pencil2D 0.6.6（2021 年 2 月 17 日）" href="#pencil2d-066-17-feb-2021"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以从</font></font><a href="https://www.pencil2d.org/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">官方网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://github.com/pencil2d/pencil/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Github 版本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 Pencil2D 。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每日构建</font></font></h3><a id="user-content-nightly-builds" class="anchor" aria-label="永久链接：每日构建" href="#nightly-builds"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每日构建是 Pencil2D 的前沿版本，其中包含最新的修复和功能。我们目前不提供旧版 Mac 或 32 位 Linux 每日构建。如果您拥有这些系统之一，则必须等待官方发布或从源代码构建程序。</font></font></p>
+<p dir="auto"><a href="https://www.pencil2d.org/download/nightly/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载 Nightly Buildls</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Pencil2D</font></font></h2><a id="user-content-using-pencil2d" class="anchor" aria-label="永久链接：使用 Pencil2D" href="#using-pencil2d"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请注意，以下指南和文档已过时。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pencil2D 附带一份快速参考指南，您可以使用它来熟悉可用的工具和功能。打开 Pencil2D 后，您可以通过主菜单访问它：帮助 &gt; 快速参考指南。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们鼓励您访问我们的</font></font><a href="https://www.pencil2d.org/doc/user-manual.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户手册，</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取针对新手用户的快速指南，然后试用该程序 - 这很有趣！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在您稍微熟悉了基础知识后，请查看 Pencil 开发人员和用户提供的这些</font></font><a href="https://www.pencil2d.org/doc/tutorials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。虽然其中一些资源可能引用了 Pencil2D 的先前版本，但底层概念仍然相同。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您遇到困难或有其他问题，我们有一个庞大的用户社区，他们很乐意为您提供帮助。查看</font><font style="vertical-align: inherit;">我们网站上的</font></font><a href="https://www.pencil2d.org/doc/faq.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">常见问题解答或访问我们的</font></font></a><font style="vertical-align: inherit;"></font><a href="https://discuss.pencil2d.org/c/support/5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论论坛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以发布新问题。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有兴趣为 Pencil 做贡献吗？有很多方法可以提供帮助。查看我们的问题，看看你能提供什么帮助，查看开发者指南，或者通过为翻译做贡献来帮助更多人使用 Pencil2D。</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/pencil2d/pencil/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题跟踪器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——报告错误或请求功能。</font></font></li>
+<li><a href="https://dev.pencil2d.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 了解如何自己编译 Pencil2D。</font></font></li>
+<li><a href="https://www.transifex.com/pencil2d/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Transifex-</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您也可以帮助翻译Pencil2D。</font></font></li>
+<li><a href="https://www.pencil2d.org/doc/CONTRIBUTING" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——对文档做出贡献的指南。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">源代码</font></font></h2><a id="user-content-source-code" class="anchor" aria-label="永久链接：源代码" href="#source-code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub：</font></font><a href="https://github.com/pencil2d/pencil"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/pencil2d/pencil</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（主要）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bitbucket：</font></font><a href="https://bitbucket.org/chchwy/pencil2d" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://bitbucket.org/chchwy/pencil2d</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（镜像）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitLab：</font></font><a href="https://gitlab.com/chchwy/pencil2d" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://gitlab.com/chchwy/pencil2d</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（镜像 2）</font></font></li>
+</ul>
+</article></div>
